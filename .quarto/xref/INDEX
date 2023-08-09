@@ -4,5 +4,59 @@
   },
   "about.qmd": {
     "about.html": "ec694c70"
+  },
+  "1stsemester.qmd": {
+    "1stsemester.html": "abe506d6"
+  },
+  "2ndsemester.qmd": {
+    "2ndsemester.html": "1857565b"
+  },
+  "3rdsemester.qmd": {
+    "3rdsemester.html": "6f11558e"
+  },
+  "4thsemester.qmd": {
+    "4thsemester.html": "8adb6271"
+  },
+  "1stsemester_theory.qmd": {
+    "1stsemester_theory.html": "9d6b8165"
+  },
+  "sites/1stsemester_theory.qmd": {
+    "1stsemester_theory.html": "a6289d96"
+  },
+  "sites/1stsemester.qmd": {
+    "1stsemester.html": "9b390f58"
+  },
+  "sites/2ndsemester.qmd": {
+    "2ndsemester.html": "cabf450b"
+  },
+  "sites/3rdsemester.qmd": {
+    "3rdsemester.html": "39d36ebe"
+  },
+  "sites/4thsemester.qmd": {
+    "4thsemester.html": "b15882f1"
+  },
+  "sites/1stsemester_projects.qmd": {
+    "1stsemester_projects.html": "5b5ebb20"
+  },
+  "sites/2ndsemester_projects.qmd": {
+    "2ndsemester_projects.html": "626f0906"
+  },
+  "sites/2ndsemester_theory.qmd": {
+    "2ndsemester_theory.html": "78a4f938"
+  },
+  "sites/3rdsemester_projects.qmd": {
+    "3rdsemester_projects.html": "e6c13c83"
+  },
+  "sites/3rdsemester_theory.qmd": {
+    "3rdsemester_theory.html": "0604124e"
+  },
+  "sites/4thsemester_projects.qmd": {
+    "4thsemester_projects.html": "cf39dfef"
+  },
+  "sites/4thsemester_theory.qmd": {
+    "4thsemester_theory.html": "afb03779"
+  },
+  "sites/gallery.qmd": {
+    "gallery.html": "677c8038"
   }
 }

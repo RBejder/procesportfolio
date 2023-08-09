@@ -1,17 +1,50 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "procesportfolio"
+  title: "process portfolio"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: "Home"
+        file: index.qmd
+      - text: Gallery
+        file: sites/gallery.qmd
+      - text: 2nd Semester
+        file: sites/2ndsemester.qmd
+      - text: 3rd Semester 
+        file: sites/3rdsemester.qmd
+      - text: 4th Semester
+        file: sites/4thsemester.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "1st Semester"
+        file: sites/1stsemester.qmd
+        contents:
+          - sites/1stsemester_theory.qmd
+          - 1stsemester_projects.qmd
+      - section: "2nd Semester"
+        file: sites/2ndsemester.qmd
+        contents:
+          - sites/2ndsemester_theory.qmd
+          - sites/2ndsemester_projects.qmd       
+      - section: "3rd Semester"
+        file: sites/3rdsemester.qmd
+        contents:
+          - sites/3rdsemester_theory.qmd
+          - sites/3rdsemester_projects.qmd
+      - section: "4th Semester"
+        file: sites/4thsemester.qmd
+        contents:
+          - sites/4thsemester_theory.qmd
+          - sites/4thsemester_projects.qmd    
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

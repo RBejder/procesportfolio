@@ -1,7 +1,37 @@
 ---
-title: "procesportfolio"
+title: "process portfolio"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="side-by-side">
+  <div class="text-column">
+Hello there, I'm Rasmus Bejder, a multimedia design student based in Odense, Denmark.<br>
+
+I've walked a diverse path. At 43, my background spans customer service, IT support, case handling, forestry, and wilderness guiding. Each experience has added something valuable to my unique skill set.<br>
+
+When I'm not designing, I'm capturing moments through my camera lens or exploring the outdoors on hikes and camping trips. Music festivals and tech fascinate me, feeding my curiosity about media, web design, and technology.<br>
+
+If you're looking for someone who can bring a genuine mix of experiences to the table, I'm here. Let's chat about how my journey can add value to your projects.<br>
+  </div>
+
+  <div class="image-column">
+![A photo of me on a mountain](media/saana.jpg)
+  </div>
+
+</div>
+
+<style>
+.side-by-side {
+  display: flex;
+}
+
+.image-column {
+  flex: 1;
+  padding-right: 20px; /* Adjust as needed for spacing between image and text */
+}
+
+.text-column {
+  flex: 2;
+}
+</style>
+
