@@ -7,17 +7,24 @@ website:
   navbar:
     background: primary
     search: true
+    right:
+      - icon: github
+        text: Github
+        href: https://github.com/RBejder
+        target: "_blank"
+      - icon: instagram
+        text: Instagram
+        href: https://www.instagram.com/rb.venture/
+        target: "_blank"
+      - icon: facebook 
+        text: Facebook
+        href: https://www.facebook.com/rbejder/
+        target: "_blank"
     left:
       - text: "Home"
         file: index.qmd
       - text: Gallery
         file: sites/gallery.qmd
-      - text: 2nd Semester
-        file: sites/2ndsemester.qmd
-      - text: 3rd Semester 
-        file: sites/3rdsemester.qmd
-      - text: 4th Semester
-        file: sites/4thsemester.qmd
   sidebar:
     style: "docked"
     search: true
@@ -26,7 +33,7 @@ website:
         file: sites/1stsemester.qmd
         contents:
           - sites/1stsemester_theory.qmd
-          - 1stsemester_projects.qmd
+          - sites/1stsemester_projects.qmd
       - section: "2nd Semester"
         file: sites/2ndsemester.qmd
         contents:

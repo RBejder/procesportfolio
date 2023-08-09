@@ -1,11 +1,11 @@
 ---
-title: "process portfolio"
+title: "The ever evolving journey of"
 ---
 
 
 <div class="side-by-side">
   <div class="text-column">
-Hello there, I'm Rasmus Bejder, a multimedia design student based in Odense, Denmark.<br>
+Rasmus Bejder, a multimedia design student based in Odense, Denmark.<br>
 
 I've walked a diverse path. At 43, my background spans customer service, IT support, case handling, forestry, and wilderness guiding. Each experience has added something valuable to my unique skill set.<br>
 
