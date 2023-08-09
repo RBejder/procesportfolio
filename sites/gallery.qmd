@@ -1,0 +1,136 @@
+---
+title: My photography
+---
+
+<html>
+<body>
+<section class="box"></section>
+<div class="row">
+<div class="column">
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/finsks%C3%B8_gh3nur.jpg"
+alt="billede af en finsk sø"
+style="width: 100%"
+/>
+<img src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607035/process%20portfolio/Ani_aowvcv.jpg" 
+alt="billede af en hund" 
+style="width: 100%" />
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607037/process%20portfolio/hjerpsted1_ebekuq.jpg"
+alt="billede af store sten på en strand"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607036/process%20portfolio/hjerpsted2_hgkwm5.jpg"
+alt="billede af grafiti på en bunker"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/fejlpyhaluosto_lioly3.jpg"
+alt="billede af skovsti i finsk fjeld"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607034/process%20portfolio/seden1_oo8u7f.jpg"
+alt="billede af solnedgang over Odense Fjord"
+style="width: 100%"
+/>
+</div>
+<section class="box"></section>
+<div class="row">
+<div class="column">
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/finsks%C3%B8_gh3nur.jpg"
+alt="billede af en finsk sø"
+style="width: 100%"
+/>
+<img src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607035/process%20portfolio/Ani_aowvcv.jpg" 
+alt="billede af en hund" 
+style="width: 100%" />
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607037/process%20portfolio/hjerpsted1_ebekuq.jpg"
+alt="billede af store sten på en strand"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607036/process%20portfolio/hjerpsted2_hgkwm5.jpg"
+alt="billede af grafiti på en bunker"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/fejlpyhaluosto_lioly3.jpg"
+alt="billede af skovsti i finsk fjeld"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607034/process%20portfolio/seden1_oo8u7f.jpg"
+alt="billede af solnedgang over Odense Fjord"
+style="width: 100%"
+/>
+</div>
+<section class="box"></section>
+<div class="row">
+<div class="column">
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/finsks%C3%B8_gh3nur.jpg"
+alt="billede af en finsk sø"
+style="width: 100%"
+/>
+<img src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607035/process%20portfolio/Ani_aowvcv.jpg" 
+alt="billede af en hund" 
+style="width: 100%" />
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607037/process%20portfolio/hjerpsted1_ebekuq.jpg"
+alt="billede af store sten på en strand"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607036/process%20portfolio/hjerpsted2_hgkwm5.jpg"
+alt="billede af grafiti på en bunker"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/fejlpyhaluosto_lioly3.jpg"
+alt="billede af skovsti i finsk fjeld"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607034/process%20portfolio/seden1_oo8u7f.jpg"
+alt="billede af solnedgang over Odense Fjord"
+style="width: 100%"
+/>
+</div>
+<section class="box"></section>
+<div class="row">
+<div class="column">
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/finsks%C3%B8_gh3nur.jpg"
+alt="billede af en finsk sø"
+style="width: 100%"
+/>
+<img src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607035/process%20portfolio/Ani_aowvcv.jpg" 
+alt="billede af en hund" 
+style="width: 100%" />
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607037/process%20portfolio/hjerpsted1_ebekuq.jpg"
+alt="billede af store sten på en strand"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607036/process%20portfolio/hjerpsted2_hgkwm5.jpg"
+alt="billede af grafiti på en bunker"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607038/process%20portfolio/fejlpyhaluosto_lioly3.jpg"
+alt="billede af skovsti i finsk fjeld"
+style="width: 100%"
+/>
+<img
+src="https://res.cloudinary.com/dc1kxjjka/image/upload/v1691607034/process%20portfolio/seden1_oo8u7f.jpg"
+alt="billede af solnedgang over Odense Fjord"
+style="width: 100%"
+/>
+</div>
+</body>
+</html>
